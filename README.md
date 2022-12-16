@@ -1,0 +1,2 @@
+# Search-for-books-and-authors-by-api-request
+Search for books and authors by api request. The application is written in the Go language. And makes api requests to the site "https://openlibrary.org/". With this application, you can find out information about the authors of the book (by title), the year the book was published, the languages in which the book was published, as well as a lot of information about the authors.
